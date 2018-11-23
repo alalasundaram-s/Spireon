@@ -1,0 +1,14 @@
+{
+"content": [ {"id": "14368294628716ZIVPHB", "lastLocation": { "lat": 32.92106, "lng": -97.014558, "address": { "line1": "4875 W Royal Ln", "city": "Irving", "stateOrProvince": "TX", "postalCode": "75063"
+} },
+"locationLastReported" : "2015-07-13T23:17:42.000+0000", "active": true, "description": "Test Device 10", "name": "Test Asset 10", "make": "Ford", "model": "F-150", "year": "2000", "vin": "1FTCR15X0TTA01010", "createdBy": "system", "updatedBy": "system", "dateCreated": "2015-07-13T23:17:42.000+0000", "lastUpdated": "2015-07-13T23:17:42.000+0000", "speed": 0, "odometer": 98758.01, "initialOdometer" : 2547, "status": "Stopped", "statusStartDate" : "2015-07-13T23:17:42.000+0000", "batteryVoltage": 11.9, "cargoTemperature" : 30.1, "lastCargoTemperatureTime" : "2015-08-11T10:15:41.000+0000", "engineHours" : 15547, "initialEngineHours" : 278, "tags": ["tag1", "tag2"]
+}, {
+"id": "1436829481116RKAHTZ0", "lastLocation": { "lat": 32.75422, "lng": -97.07507, "address": { "line1": "1919 Rd To Six Flags E", "city": "Arlington", "stateOrProvince": "TX", "postalCode": "76011"
+} },
+"locationLastReported" : "2015-07-13T23:18:01.000+0000", "active": true, "description": "Test Device 11", "name": "Test Asset 11", "make": "Ford", "model": "F-150", "year": "2001", "vin": "1FTCR15X0TTA01011", "createdBy": "system", "updatedBy": "system", "dateCreated": "2015-07-13T23:18:01.000+0000", "lastUpdated": "2015-07-13T23:18:01.000+0000", "speed": 0, "batteryVoltage": 11.1, "odometer": 6.22, "status": "Stopped", "statusStartDate" : "2015-07-13T23:18:01.000+0000"
+}, {
+"id": "14368295070310F4P3WA", "lastLocation": { "lat": 32.915014, "lng": -96.963596, "address": {},
+"locationLastReported" : "2015-07-13T23:18:26.000+0000", "active": true, "description": "Test Device 12", "name": "Test Asset 12", "make": "Ford", "model": "F-150", "year": "2002", "vin": "1FTCR15X0TTA01012", "createdBy": "system", "updatedBy": "system", "dateCreated": "2015-07-13T23:18:26.000+0000", "lastUpdated": "2015-07-13T23:18:26.000+0000", "speed": 0, "batteryVoltage": 12.2, "odometer": 0.02, "status": "Stopped", "statusStartDate" : "2015-07-13T23:18:26.000+0000"
+} ],
+"count": 3, "total": 3
+}
